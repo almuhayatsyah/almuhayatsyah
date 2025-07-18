@@ -52,27 +52,22 @@ Saya juga sedang mengembangkan sistem manajemen warung kopi dan layanan undangan
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAMEKAMU&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=almuhayatsyah&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAMEKAMU&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=almuhayatsyah&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ---
 
 ### 📫 Let's Connect
 
-- 📧 Email: [masukkan email kamu]  
-- 💼 LinkedIn: [linkedin.com/in/kamu]  
-- 📷 Instagram: [instagram.com/kamu]
+- 📧 Email: [almuhayats@gmail.com]  
+- 💼 LinkedIn: [linkedin_al-muhayatsyah]  
+- 📷 Instagram: [instagram.com/almuhayatsyah_]
 
 ---
 
-### 💡 Fun Fact
 
-> Saya percaya AI bukan tongkat sihir, tapi **partner kerja** yang bisa bantu kita tumbuh lebih cepat.  
-> Konsistensi dan semangat belajar tetap jadi kunci utama 🔑.
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=150&section=footer" />
