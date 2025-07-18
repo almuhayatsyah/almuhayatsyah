@@ -1,6 +1,6 @@
-<h1 align="center">Hi there 👋, I'm <span style="color:#facc15">Fly Inboii</span></h1>
+<h1 align="center">Hi there 👋, I'm <span style="color:#facc15">Almuhayatsyah</span></h1>
 <p align="center">
-  💻 Mahasiswa Informatika | 🌐 Web Developer | 🚀 Calon Pendiri Startup Teknologi Aceh
+  💻 Mahasiswa Informatika | 🌐 Web Developer | 🚀 Scoded Foundation
 </p>
 
 <p align="center">
