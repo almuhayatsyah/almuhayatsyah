@@ -1,58 +1,79 @@
-<h1 align="center">Hi there 👋, I'm Almuhayatsyah </h1>
+<h1 align="center">Hi there 👋, I'm <span style="color:#facc15">Fly Inboii</span></h1>
 <p align="center">
   💻 Mahasiswa Informatika | 🌐 Web Developer | 🚀 Calon Pendiri Startup Teknologi Aceh
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FACC15&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub!;Web+Developer+%7C+Startup+Dreamer;Laravel+%7C+React+%7C+Tailwind+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍💻 Tentang Saya
 
-Saya adalah mahasiswa Informatika yang sedang menyelesaikan tugas akhir berupa pengembangan sistem CRM untuk Subdivisi Priority Executive Account di PLN UID Aceh, menggunakan Laravel 12.  
-Saya aktif membangun proyek berbasis web seperti sistem manajemen warung kopi dan layanan undangan digital.  
+Saya adalah seorang **Mahasiswa Informatika** yang sedang menyelesaikan skripsi dengan membangun **Sistem CRM PLN UID Aceh** berbasis Laravel 12.  
+Saya juga sedang mengembangkan sistem manajemen warung kopi dan layanan undangan digital yang terhubung dengan dashboard.
 
-Saya percaya bahwa teknologi bisa menjadi solusi praktis dan berdampak besar, khususnya di daerah saya, Aceh. Karena itu, saya punya visi untuk membangun startup teknologi pertama yang besar dari Aceh.
-
----
-
-### ⚙️ Teknologi yang Saya Gunakan & Pelajari
-- PHP & Laravel
-- JavaScript & React
-- MySQL, REST API
-- Git, GitHub
-- Vite, Tailwind CSS
-- Web3 (pemula)
+🚀 Saya punya cita-cita membangun **startup teknologi pertama yang besar di Aceh**, karena saya percaya teknologi bisa lahir dari mana saja — bahkan dari ujung barat Indonesia 🇮🇩.
 
 ---
 
-### 🔧 Proyek yang Pernah Saya Buat
-- **Sistem CRM PLN UID Aceh** — Laravel 12, Role Admin/Manager/Staff/Pelanggan
-- **Sistem Manajemen Warung Kopi** — Web app internal untuk mengelola pesanan dan menu
-- **Undangan Digital Interaktif** — Landing page dengan nama tamu otomatis dan dashboard admin
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,php,js,react,tailwind,html,css,vite,mysql,github,vscode" />
+</div>
+
+---
+
+### 📂 Proyek Utama Saya
+
+- 🔌 **CRM Subdivisi PAE PLN UID Aceh**  
+  Sistem pengelolaan pelanggan, role-based access (Admin, Manager, Staff, Pelanggan)
+
+- ☕ **Sistem Manajemen Warung Kopi**  
+  Web app sederhana untuk mengelola menu, pesanan, dan transaksi
+
+- 💌 **Undangan Digital Interaktif**  
+  Landing page undangan dengan fitur input nama & dashboard daftar tamu
 
 ---
 
 ### 🎯 Goals & Visi
-- ✅ Menyelesaikan skripsi tepat waktu 🎓
-- ✅ Menjadi developer yang profesional & terus belajar
-- 🚀 Membangun startup teknologi pertama di Aceh
-- 🌍 Membuka jasa digital kreatif untuk UMKM
+
+- 🎓 Menyelesaikan skripsi tepat waktu  
+- 👨‍💻 Menjadi web developer profesional  
+- 🧠 Konsisten belajar dan eksplorasi teknologi  
+- 🏢 Mendirikan startup digital di Aceh  
+- 💼 Membuka jasa landing page dan undangan digital untuk UMKM
 
 ---
 
-### 📫 Let's Connect!
-- ✉️ Email: [masukkan email kamu]
-- 💼 LinkedIn: [link profil LinkedIn kamu]
-- 📷 Instagram: [jika ingin dimasukkan]
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAMEKAMU&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAMEKAMU&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
 
 ---
 
-### ✨ Fun Fact
-Saya sering menggunakan AI generatif sebagai *partner kerja*, bukan tongkat ajaib. Karena AI yang hebat pun tetap butuh manusianya yang tekun belajar. 😄
+### 📫 Let's Connect
+
+- 📧 Email: [masukkan email kamu]  
+- 💼 LinkedIn: [linkedin.com/in/kamu]  
+- 📷 Instagram: [instagram.com/kamu]
+
+---
+
+### 💡 Fun Fact
+
+> Saya percaya AI bukan tongkat sihir, tapi **partner kerja** yang bisa bantu kita tumbuh lebih cepat.  
+> Konsistensi dan semangat belajar tetap jadi kunci utama 🔑.
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAMEKAMU&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAMEKAMU&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=150&section=footer" />
 </p>
