@@ -52,7 +52,7 @@ Saya juga sedang mengembangkan sistem manajemen warung kopi dan layanan undangan
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=almuhayatsyah&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=almuhayatsyah&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> -->
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=almuhayatsyah&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
