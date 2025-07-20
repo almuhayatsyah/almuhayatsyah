@@ -11,9 +11,9 @@
 
 ### 👨‍💻 Tentang Saya
 
-Saya adalah seorang **Mahasiswa Informatika** yang sedang menyelesaikan skripsi dengan membangun **Sistem CRM PLN UID Aceh** berbasis Laravel 12.  
-Saya juga sedang mengembangkan sistem manajemen warung kopi dan layanan undangan digital yang terhubung dengan dashboard.
+Saya adalah seorang Web Developer yang berpengalaman dalam membangun dan mengelola berbagai jenis website, mulai dari landing page hingga sistem berbasis web yang kompleks. Keahlian saya mencakup penggunaan teknologi front-end seperti HTML, CSS, JavaScript, dan framework modern seperti React atau Vue, serta pengembangan back-end dengan PHP, Laravel, dan MySQL. Saya terbiasa bekerja dalam tim maupun secara mandiri, dengan fokus pada kualitas, kecepatan, dan keamanan dalam setiap proyek yang saya tangani.
 
+Dengan pendekatan yang detail dan user-centered, saya selalu berusaha menciptakan antarmuka yang responsif, ramah pengguna, dan fungsional. Saya juga memiliki kemampuan untuk beradaptasi dengan cepat terhadap kebutuhan klien dan perkembangan teknologi terkini di dunia web.
 🚀 Saya punya cita-cita membangun **startup teknologi pertama yang besar di Aceh**, karena saya percaya teknologi bisa lahir dari mana saja — bahkan dari ujung barat Indonesia 🇮🇩.
 
 ---
@@ -26,26 +26,7 @@ Saya juga sedang mengembangkan sistem manajemen warung kopi dan layanan undangan
 
 ---
 
-### 📂 Proyek Utama Saya
-
-- 🔌 **CRM Subdivisi PAE PLN UID Aceh**  
-  Sistem pengelolaan pelanggan, role-based access (Admin, Manager, Staff, Pelanggan)
-
-- ☕ **Sistem Manajemen Warung Kopi**  
-  Web app sederhana untuk mengelola menu, pesanan, dan transaksi
-
-- 💌 **Undangan Digital Interaktif**  
-  Landing page undangan dengan fitur input nama & dashboard daftar tamu
-
 ---
-
-### 🎯 Goals & Visi
-
-- 🎓 Menyelesaikan skripsi tepat waktu  
-- 👨‍💻 Menjadi web developer profesional  
-- 🧠 Konsisten belajar dan eksplorasi teknologi  
-- 🏢 Mendirikan startup digital di Aceh  
-- 💼 Membuka jasa landing page dan undangan digital untuk UMKM
 
 ---
 
@@ -62,7 +43,7 @@ Saya juga sedang mengembangkan sistem manajemen warung kopi dan layanan undangan
 ### 📫 Let's Connect
 
 - 📧 Email: [almuhayats@gmail.com]  
-- 💼 LinkedIn: [linkedin_al-muhayatsyah]  
+- 💼 LinkedIn: [https://www.linkedin.com/in/al-muhayatsyah-7817b1290/ ] 
 - 📷 Instagram: [instagram.com/almuhayatsyah_]
 
 ---
