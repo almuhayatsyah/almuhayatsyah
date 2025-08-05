@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm <span style="color:#facc15">Almuhayatsyah</span></h1>
 <p align="center">
-  💻 Mahasiswa Informatika | 🌐 Web Developer | 🚀 Scoded.Dev Foundation
+ 🌐 Web Developer | 🚀 Scoded.Dev Foundation
 </p>
 
 <p align="center">
