@@ -10,8 +10,7 @@ I'm passionate about building scalable web applications and creating digital sol
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-### 📊 GitHub Stats
-![Almuhayatsyah's GitHub stats](https://github-readme-stats.vercel.app/api?username=almuhayatsyah&show_icons=true&theme=radical)
+
 ### 🔥 Featured Projects
 - 🏢 **CRM Prioritas PLN** - Customer Relationship Management System
 - 🗺️ **GIS Application** - Geographic Information System for education
