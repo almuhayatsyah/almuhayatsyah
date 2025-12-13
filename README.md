@@ -1,56 +1,25 @@
-<h1 align="center">Hi there 👋, I'm <span style="color:#facc15">Almuhayatsyah</span></h1>
-<p align="center">
- 🌐 Web Developer | 🚀Softwere engineer
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FACC15&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub!;Web+Developer+%7C+Startup+Dreamer;Laravel+%7C+React+%7C+Tailwind+Enthusiast" alt="Typing SVG" />
-</p>
-
----
-
-### 👨‍💻 Tentang Saya
-
-Saya adalah seorang Web Developer yang berpengalaman dalam membangun dan mengelola berbagai jenis website, mulai dari landing page hingga sistem berbasis web yang kompleks. Keahlian saya mencakup penggunaan teknologi front-end seperti HTML, CSS, JavaScript, dan framework modern seperti React atau Vue, serta pengembangan back-end dengan PHP, Laravel, dan MySQL. Saya terbiasa bekerja dalam tim maupun secara mandiri, dengan fokus pada kualitas, kecepatan, dan keamanan dalam setiap proyek yang saya tangani.
-
-Dengan pendekatan yang detail dan user-centered, saya selalu berusaha menciptakan antarmuka yang responsif, ramah pengguna, dan fungsional. Saya juga memiliki kemampuan untuk beradaptasi dengan cepat terhadap kebutuhan klien dan perkembangan teknologi terkini di dunia web.
-🚀 Saya punya cita-cita membangun **startup teknologi pertama yang besar di Aceh**, karena saya percaya teknologi bisa lahir dari mana saja — bahkan dari ujung barat Indonesia 🇮🇩.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,js,react,tailwind,html,css,vite,mysql,github,vscode" />
-</div>
-
----
-
----
-
----
-
+# Hi there, I'm Almuhayatsyah 👋
+## 🚀 Fullstack Developer from Aceh, Indonesia
+I'm passionate about building scalable web applications and creating digital solutions that make a difference.
+### 💻 Tech Stack
+**Frontend:**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+**Backend:**
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ### 📊 GitHub Stats
-
-<div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=almuhayatsyah&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> -->
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=almuhayatsyah&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
-
----
-
+![Almuhayatsyah's GitHub stats](https://github-readme-stats.vercel.app/api?username=almuhayatsyah&show_icons=true&theme=radical)
+### 🔥 Featured Projects
+- 🏢 **CRM Prioritas PLN** - Customer Relationship Management System
+- 🗺️ **GIS Application** - Geographic Information System for education
+- 📝 **CMS BEM FST** - Content Management System
+- 📊 **Data Visualization** - Interactive dashboards with Looker Studio
 ### 📫 Let's Connect
-
-- 📧 Email: [almuhayats@gmail.com]  
-- 💼 LinkedIn: [https://www.linkedin.com/in/al-muhayatsyah-7817b1290/ ] 
-- 📷 Instagram: [instagram.com/almuhayatsyah_]
-- 🌐 website: [almuhayatsyah.my.id]
-
+- 🌐 Portfolio: [almuhayatsyah.my.id](https://almuhayatsyah.my.id)
+- 💼 LinkedIn: [al-muhayatsyah](https://www.linkedin.com/in/al-muhayatsyah-7817b1290/)
+- 📧 Email: almuhayats@gmail.com
 ---
-
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=150&section=footer" />
-</p>
+⭐️ From [almuhayatsyah](https://github.com/almuhayatsyah)
